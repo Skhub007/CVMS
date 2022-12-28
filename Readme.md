@@ -1,5 +1,5 @@
 How to run the Company Visitors Management System (CVMS) Project
-
+<img width="917" alt="Screenshot 2021-07-09 at 15 49 32" src="https://user-images.githubusercontent.com/63747597/125414435-69d884a5-89bb-47f4-9f1d-c0f515baf8f1.png">
 1. Download the  zip file
 
 2. Extract the file and copy cvms folder
